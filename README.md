@@ -32,7 +32,7 @@ I am Dhruv Padiya<br>Currently working on the Java Developer and trying to explo
     srcset="https://raw.githubusercontent.com/Dhruv2541/Dhruv2541/output/pacman-contribution-graph.svg">
 
   <img
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/Dhruv2541/Dhruv2541/output/pacman-contribution-graph.svg">
+  src="https://raw.githubusercontent.com/Dhruv2541/Dhruv2541/output/pacman-contribution-graph-dark.svg"
+  alt="Pacman contribution graph">
 </picture>
 
