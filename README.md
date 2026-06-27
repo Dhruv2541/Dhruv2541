@@ -22,3 +22,17 @@ I am Dhruv Padiya<br>Currently working on the Java Developer and trying to explo
 ---
 [![](https://komarev.com/ghpvc/?username=Dhruv2541&icon=8&color=1)](https://visitcount.itsvg.in)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Dhruv2541/Dhruv2541/output/pacman-contribution-graph-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Dhruv2541/Dhruv2541/output/pacman-contribution-graph.svg">
+
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/Dhruv2541/Dhruv2541/output/pacman-contribution-graph.svg">
+</picture>
+
