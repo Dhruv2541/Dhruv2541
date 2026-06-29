@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am Dhruv Padiya<br>Currently working on the Java Developer and trying to explore new ways to learn about new things
+# Hello👋, I'm Dhruv!:
+Java Developer | Lifelong Learner<br>Currently building my expertise in Java and constantly exploring the latest trends in tech.
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
