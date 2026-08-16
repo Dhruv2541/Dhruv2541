@@ -22,6 +22,40 @@ Java Developer | Lifelong Learner<br>Currently building my expertise in Java and
 ---
 [![](https://komarev.com/ghpvc/?username=Dhruv2541&color=blue)](https://visitcount.itsvg.in)
 
+## Featured Projects
+
+<table>
+<tr>
+<td width="140" align="center" valign="middle">
+  <img src="" width="110" />
+</td>
+<td valign="middle">
+  <b style="font-size: 20px;">Vibe2Ship_CommunityHero</b><br>
+  <span style="font-size: 15px; line-height: 1.5;">
+    For day to day problems solution.
+  </span><br><br>
+  <a href="https://github.com/Dhruv2541/Vibe2Ship_Community_Hero">View Project</a>
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="140" align="center" valign="middle">
+  <img src="" width="110" />
+</td>
+<td valign="middle">
+  <b style="font-size: 20px;">AI_Chatbot</b><br>
+  <span style="font-size: 15px; line-height: 1.5;">
+    Chatbot for your conversations.
+  </span><br><br>
+  <a href="https://github.com/Dhruv2541/CodeAlpha_Artificial_Intelligence_Chatbot">View Project</a>
+</td>
+</tr>
+</table>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
